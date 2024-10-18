@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "name": "Plastic Recycling",
+      "description": "Facilities that process and recycle various types of plastic materials.",
+      "category": "Material Recycling"
+    },
+    {
+      "id": 2,
+      "name": "E-Waste Collection",
+      "description": "Programs for collecting and recycling electronic waste like computers and phones.",
+      "category": "Specialized Recycling"
+    },
+    {
+      "id": 3,
+      "name": "Composting Services",
+      "description": "Services that turn organic waste into compost, reducing landfill waste.",
+      "category": "Organic Recycling"
+    },
+    {
+      "id": 4,
+      "name": "Glass Bottle Return",
+      "description": "Deposit systems for returning glass bottles to promote reuse and recycling.",
+      "category": "Material Recycling"
+    },
+    {
+      "id": 5,
+      "name": "Battery Recycling",
+      "description": "Collection points for recycling batteries safely to prevent hazardous waste.",
+      "category": "Hazardous Waste"
+    },
+    {
+      "id": 6,
+      "name": "Community Clean-Up Events",
+      "description": "Local events aimed at cleaning up public spaces and promoting recycling awareness.",
+      "category": "Community Initiatives"
+    }
+  ]
+}
